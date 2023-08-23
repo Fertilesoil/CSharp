@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\bin\Debug\net7.0\Exercício3.exe
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\bin\Debug\net7.0\Exercício3.deps.json
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\bin\Debug\net7.0\Exercício3.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\bin\Debug\net7.0\Exercício3.dll
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\bin\Debug\net7.0\Exercício3.pdb
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.dll
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\refint\Exercício3.dll
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.pdb
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\Exercício3.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 02\Calculadora\Exercício3\obj\Debug\net7.0\ref\Exercício3.dll
