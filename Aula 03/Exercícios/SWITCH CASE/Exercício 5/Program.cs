@@ -28,36 +28,51 @@ namespace Exercício_5
                 case 1:
                     numero = 10;
                     total = quantidade * numero;
-                    Console.WriteLine(); 
-                    Console.WriteLine($"| Cachorro Quente \n Total: {total:c}");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine("      Cachorro Quente      ");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine($"Total:\t\t {total:c}");
+                    Console.WriteLine("===========================");
                     Console.ReadKey();
                         break;
                 case 2:
                     numero = 15;
                     total = quantidade * numero;
-                    Console.WriteLine(); 
-                    Console.WriteLine($"| X-Salada \n Total: {total:c}");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine("          X-Salada         ");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine($"Total:\t\t {total:c}");
+                    Console.WriteLine("===========================");
                     Console.ReadKey();
                         break;
                 case 3:
                     numero = 18;
                     total = quantidade * numero;
-                    Console.WriteLine(); 
-                    Console.WriteLine($"| X-Bacon \n Total: {total:c}");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine("          X-Bacon          ");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine($"Total:\t\t {total:c}");
+                    Console.WriteLine("===========================");
                     Console.ReadKey();
                         break;
                 case 4:
                     numero = 12;
                     total = quantidade * numero;
-                    Console.WriteLine(); 
-                    Console.WriteLine($"| Bauru \n Total: {total:c}");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine("           Bauru           ");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine($"Total:\t\t {total:c}");
+                    Console.WriteLine("===========================");
                     Console.ReadKey();
                         break;
                 case 5:
                     numero = 5;
                     total = quantidade * numero;
-                    Console.WriteLine(); 
-                    Console.WriteLine($"| Refrigerante \n Total: {total:c}");
+                    Console.WriteLine("==========================="); 
+                    Console.WriteLine($"        Refrigerante      ");
+                    Console.WriteLine("===========================");
+                    Console.WriteLine($"Total:\t\t {total:c}");
+                    Console.WriteLine("===========================");
                     Console.ReadKey();
                         break;
                 case 6:
