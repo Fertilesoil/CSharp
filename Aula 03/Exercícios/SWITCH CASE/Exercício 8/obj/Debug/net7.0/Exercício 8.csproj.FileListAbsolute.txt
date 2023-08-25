@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\bin\Debug\net7.0\Exercício 8.exe
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\bin\Debug\net7.0\Exercício 8.deps.json
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\bin\Debug\net7.0\Exercício 8.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\bin\Debug\net7.0\Exercício 8.dll
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\bin\Debug\net7.0\Exercício 8.pdb
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.dll
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\refint\Exercício 8.dll
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.pdb
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\Exercício 8.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 03\Exercícios\SWITCH CASE\Exercício 8\obj\Debug\net7.0\ref\Exercício 8.dll

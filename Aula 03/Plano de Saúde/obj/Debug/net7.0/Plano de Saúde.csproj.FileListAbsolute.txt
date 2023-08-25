@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\bin\Debug\net7.0\Plano de Saúde.exe
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\bin\Debug\net7.0\Plano de Saúde.deps.json
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\bin\Debug\net7.0\Plano de Saúde.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\bin\Debug\net7.0\Plano de Saúde.dll
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\bin\Debug\net7.0\Plano de Saúde.pdb
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.dll
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\refint\Plano de Saúde.dll
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.pdb
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\Plano de Saúde.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 03\Plano de Saúde\obj\Debug\net7.0\ref\Plano de Saúde.dll
