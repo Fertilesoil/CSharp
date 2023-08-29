@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\bin\Debug\net7.0\Stack.exe
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\bin\Debug\net7.0\Stack.deps.json
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\bin\Debug\net7.0\Stack.dll
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\bin\Debug\net7.0\Stack.pdb
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.dll
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\refint\Stack.dll
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.pdb
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 06\Dados\Stack\stack\obj\Debug\net7.0\ref\Stack.dll

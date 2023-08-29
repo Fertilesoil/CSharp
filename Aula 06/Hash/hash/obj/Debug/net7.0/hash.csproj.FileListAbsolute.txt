@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\bin\Debug\net7.0\hash.exe
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\bin\Debug\net7.0\hash.deps.json
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\bin\Debug\net7.0\hash.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\bin\Debug\net7.0\hash.dll
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\bin\Debug\net7.0\hash.pdb
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.dll
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\refint\hash.dll
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.pdb
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\hash.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 06\Hash\hash\obj\Debug\net7.0\ref\hash.dll
