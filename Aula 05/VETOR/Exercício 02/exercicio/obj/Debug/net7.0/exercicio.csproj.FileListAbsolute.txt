@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\bin\Debug\net7.0\exercicio.exe
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\bin\Debug\net7.0\exercicio.deps.json
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\bin\Debug\net7.0\exercicio.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\bin\Debug\net7.0\exercicio.dll
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\bin\Debug\net7.0\exercicio.pdb
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.dll
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\refint\exercicio.dll
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.pdb
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\exercicio.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 05\VETOR\Exercício 02\exercicio\obj\Debug\net7.0\ref\exercicio.dll

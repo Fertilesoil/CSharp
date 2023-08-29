@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\bin\Debug\net7.0\Exercício04.exe
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\bin\Debug\net7.0\Exercício04.deps.json
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\bin\Debug\net7.0\Exercício04.runtimeconfig.json
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\bin\Debug\net7.0\Exercício04.dll
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\bin\Debug\net7.0\Exercício04.pdb
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.dll
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\refint\Exercício04.dll
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.pdb
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\Exercício04.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Aula 05\MATRIZ\Exercício 04\Exercício04\obj\Debug\net7.0\ref\Exercício04.dll
