@@ -73,7 +73,7 @@ namespace Exercício_05
             this.horario = horario;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
 
         {
             string genero = string.Empty;
