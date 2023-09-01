@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas C#\DoCliente\bin\Debug\net7.0\DoCliente.exe
+C:\Users\user\Desktop\Aulas C#\DoCliente\bin\Debug\net7.0\DoCliente.deps.json
+C:\Users\user\Desktop\Aulas C#\DoCliente\bin\Debug\net7.0\DoCliente.runtimeconfig.json
+C:\Users\user\Desktop\Aulas C#\DoCliente\bin\Debug\net7.0\DoCliente.dll
+C:\Users\user\Desktop\Aulas C#\DoCliente\bin\Debug\net7.0\DoCliente.pdb
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.dll
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\refint\DoCliente.dll
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.pdb
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\DoCliente.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas C#\DoCliente\obj\Debug\net7.0\ref\DoCliente.dll
